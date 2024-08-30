@@ -1,0 +1,32 @@
+/* src/components/pages/AdminPages.css */
+
+.admin-page {
+    padding: 20px;
+    max-width: 600px;
+    margin: 60px auto; /* Adjust margin for fixed navbar */
+  }
+  
+  .event-input,
+  .event-textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .add-event-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .add-event-button:hover {
+    background-color: #0056b3;
+  }
+  
